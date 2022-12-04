@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/kt_export_2022_12_4_12_20.csv
+data/sample_submission.csv
+data/solution.csv
+data/test.csv
+data/train.csv
